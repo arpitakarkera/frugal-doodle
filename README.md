@@ -1,5 +1,5 @@
 # FrugalDoodle
-Team O(1) submission for Mumbai Hackathon.
+Team O(1) submission for Mumbai Hackathon 2018.
 
 ## Motivation
 Whiteboard screencasting is all the rage for creating educational videos like those featured in the Khan Academy.
