@@ -15,7 +15,10 @@ The user draws on any flat surface with a pen/pencil having detectable coloured 
 * Pen/Pencil with a coloured tip
 
 ## Installation
-For installation of the desktop app, the following libraries are used:
+For installation of the desktop app, run the following command:
+`python frugaldoodle.py`
+in the dektop directory
+The following libraries must be installed:
 * PyQt5
 * wireless
 * qrcode
