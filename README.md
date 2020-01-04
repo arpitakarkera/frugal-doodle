@@ -52,7 +52,7 @@ $ python3 frugaldoodle.py
 
 ## Contributers
 * Arpita Karkera - [arpitakarkera](https://github.com/arpitakarkera)
-* Priya Nayak - [piaaaa-nyk](https://github.com/piaaaa-nyk)
+* Priya Nayak - [pia-nyk](https://github.com/pia-nyk)
 * Sunaina Punyani - [sunaina25](https://github.com/sunaina25)
 * Piyusha Sawant - [pts31](https://github.com/pts31)
 * Deep Kawa - [Deepkawa](https://github.com/Deepkawa)
